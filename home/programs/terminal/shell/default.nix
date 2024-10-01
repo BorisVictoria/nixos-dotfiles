@@ -1,0 +1,7 @@
+{
+  imports = [
+    ./carapace
+    ./nushell
+    ./starship
+  ];
+}
